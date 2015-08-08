@@ -222,6 +222,7 @@ code {
     /* font-size: 0.93em; */
     margin: 0px 1px;
     padding: 0px 2px;
+    white-space: nowrap;
 }
 
 li > p, li > ul, li > .inlinetask, li > dl {
